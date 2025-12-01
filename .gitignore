@@ -1,0 +1,8 @@
+input.txt
+inputs/
+*.input
+data/
+
+__pycache__/
+*.py[cod]
+*$py.class
